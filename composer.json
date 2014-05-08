@@ -1,0 +1,32 @@
+{
+    "name": "devtrw/parse-bundle",
+    "type": "symfony-bundle",
+    "description": "Provides interface to the Parse.com API",
+    "keywords": ["parse", "parse.com", "api"],
+    "homepage": "https://github.com/devtrw/DevtrwParseBundle",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Steven nance",
+            "email": "steven@devtrw.com",
+            "homepage": "http://www.devtrw.com"
+        }
+    ],
+    "require": {
+        "php": ">=5.3.2",
+        "symfony/symfony": "~2.3",
+        "coderockr/parse": "dev-master"
+    },
+    "require-dev": {
+    },
+    "suggest": {
+    },
+    "autoload": {
+        "psr-4": { "Devtrw\\ParseBundle\\": "" }
+    },
+    "extra": {
+        "branch-alias": {
+            "dev-master": "0.1.x-dev"
+        }
+    }
+}
