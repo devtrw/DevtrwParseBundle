@@ -5,7 +5,7 @@ This bundle provides basic integration with the
 [Parse.com](https://www.parse.com/docs/rest) API.
 
 
-[![Build Status](https://secure.travis-ci.org/Devtrw/DevtrwParseBundle.png?branch=master)](http://travis-ci.org/Devtrw/DevtrwParseBundle)
+[![Build Status](https://secure.travis-ci.org/devtrw/DevtrwParseBundle.png?branch=master)](http://travis-ci.org/devtrw/DevtrwParseBundle)
 
 Documentation
 -------------
@@ -13,13 +13,13 @@ Documentation
 The bulk of the documentation is stored in the `Resources/doc/index.md`
 file in this bundle:
 
-[Read the Documentation for master](https://github.com/Devtrw/DevtrwParseBundle/blob/master/Resources/doc/index.md)
+[Read the Documentation for master](https://github.com/devtrw/DevtrwParseBundle/blob/master/Resources/doc/index.md)
 
 
 Installation
 ------------
 
-All the installation instructions are located in the [documentation](https://github.com/Devtrw/DevtrwParseBundle/blob/master/Resources/doc/index.md).
+All the installation instructions are located in the [documentation](https://github.com/devtrw/DevtrwParseBundle/blob/master/Resources/doc/index.md).
 
 License
 -------
