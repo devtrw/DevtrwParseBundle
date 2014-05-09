@@ -10,6 +10,9 @@ This bundle provides basic integration with the
 
 
 [![Build Status](https://secure.travis-ci.org/devtrw/DevtrwParseBundle.png?branch=master)](http://travis-ci.org/devtrw/DevtrwParseBundle)
+[![SensioLabsInsight](https://insight.sensiolabs.com/projects/8a72c9ed-d571-441c-825f-f0086f87ae53/mini.png)](https://insight.sensiolabs.com/projects/8a72c9ed-d571-441c-825f-f0086f87ae53)
+[![Code Coverage](https://scrutinizer-ci.com/g/devtrw/DevtrwParseBundle/badges/coverage.png?s=e949d44ce6259d45058808ee4bb0954586e2e462)](https://scrutinizer-ci.com/g/devtrw/DevtrwParseBundle/)
+[![Scrutinizer Code Quality](https://scrutinizer-ci.com/g/devtrw/DevtrwParseBundle/badges/quality-score.png?s=b2f2096b7ed4037f630d067da475c89b038edf0b)](https://scrutinizer-ci.com/g/devtrw/DevtrwParseBundle/)
 
 Documentation
 -------------
